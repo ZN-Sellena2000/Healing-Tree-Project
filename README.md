@@ -27,7 +27,7 @@ If you carry out the project, you will see a small island with beautiful trees. 
 
 ## Built With
 
-* [Visual Studioi Code](https://code.visualstudio.com/) - flatform
+* [Visual Studio Code](https://code.visualstudio.com/) - platform
 
 ## Authors
 
